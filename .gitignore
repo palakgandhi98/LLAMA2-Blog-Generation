@@ -32,6 +32,9 @@ MANIFEST
 *.manifest
 *.spec
 
+#main secondary file
+main.py 
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
@@ -127,6 +130,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+model/
 
 # Spyder project settings
 .spyderproject
