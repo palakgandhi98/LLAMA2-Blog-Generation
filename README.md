@@ -1,5 +1,7 @@
 # LLAMA2 Blog Generation 📝
 
+![LLAMA2 Blog Generation](https://github.com/user-attachments/assets/c12fd716-e790-4518-81ac-9c7596309cd6)
+
 This project offers a user-friendly interface for generating blogs using the LLAMA2 language model. The interface is powered by Streamlit, with the language model integrated using the LangChain library. 🚀
 
 ## Features ✨
